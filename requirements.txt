@@ -1,0 +1,8 @@
+gspread
+pandas
+pywhatkit
+pyautogui
+Pillow
+python-dateutil
+pywin32
+google-auth
