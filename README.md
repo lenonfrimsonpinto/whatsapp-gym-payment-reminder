@@ -32,13 +32,21 @@ PaymentHistory
 Sheet 1: GymMembers
 Column description:
 Member ID → Unique identifier for each member
+
 Name → Member name
+
 Phone → Phone number with country code
+
 Join Date → Date the member joined
+
 Payment Due Date → Next payment due date
+
 Amount → Monthly membership fee
+
 Payment Status → Pending or Paid
+
 Payment Date → Date when payment was received
+
 Mode of Payment → UPI, Cash, Card, etc.
 
 
